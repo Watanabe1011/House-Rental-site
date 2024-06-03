@@ -16,9 +16,6 @@ In order to achieve this project I used some resources and technologies listed b
 - Library and Framework : none
 - Technologies used : Github, Git, Gitflow
 
-## Live Demo
-
- - Click [Here](https://chrissiku.github.io/house_rental/) To open the live demo
 
 ## Getting Started
 
@@ -32,20 +29,6 @@ To get a local copy up and running follow these simple example steps.
 - Have an account on Github, as an online/remote Version Control System
 - Code editor (Visual studio code, sublime text, notepad++, ...) installed on your computer;
 - Knowledge of HTML and CSS.
-
-### Setup 🎰
-
-- Click the [me](https://github.com/Chrissiku/house_rental) and you'll land on the pure repository;
-- click on the green (🟢) button with `Code` Inscription;
-- You can choose to download the project or just clone it if you are familiar with Git and Github;
-- Follow normal step once download in your computer and use it as it's yours.
-## Author
-
-👤 **Chris Siku**
-
-- GitHub: [@githubhandle](https://github.com/Chrissiku)
-- Twitter: [@twitterhandle](https://twitter.com/christian_siku)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-siku/)
 
 ## Contributing 🤝 
 
